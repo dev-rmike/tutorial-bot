@@ -1,0 +1,5 @@
+# In this file I add the files I do not want to publish (for safety & efficiency)
+.env
+node_modules/
+package-lock.json
+.backup
